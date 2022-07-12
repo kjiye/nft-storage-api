@@ -1,0 +1,24 @@
+{
+  "name": "nft-storage-api",
+  "version": "1.0.0",
+  "description": "NFT.STORAGE quick start",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjiye/nft-storage-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjiye/nft-storage-api/issues"
+  },
+  "homepage": "https://github.com/kjiye/nft-storage-api#readme",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "nft.storage": "^6.4.0"
+  }
+}
